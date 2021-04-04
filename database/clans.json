@@ -1,0 +1,25 @@
+[
+	{
+		"id": 0,
+		"name": "One",
+		"owner": 0,
+		"monster": {
+			"id": -1
+		},
+		"war": {
+			"time": 0
+		},
+		"brone": 0,
+		"cups": 0,
+		"users": [
+			{
+				"uid": 2,
+				"rights": 0
+			}
+		],
+		"invites": [],
+		"ban": [],
+		"budget": 0,
+		"type": "1"
+	}
+]

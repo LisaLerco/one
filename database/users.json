@@ -1,0 +1,230 @@
+[
+	{
+		"id": 347115695,
+		"name": "Михаил",
+		"rights": 9,
+		"city": 0,
+		"money": 41827,
+		"bank": 0,
+		"bitcoins": 0,
+		"credit": false,
+		"level": {
+			"level": 5,
+			"exp": 1651,
+			"exps": 3100
+		},
+		"hp": 100,
+		"energy": 97,
+		"disease": false,
+		"work": {
+			"day": 0,
+			"exp": 0,
+			"timer": 0,
+			"id": false
+		},
+		"ban": {
+			"acc": 0
+		},
+		"biz": {
+			"level": 0,
+			"cost": 1500000,
+			"workers": 0,
+			"max_workers": 5,
+			"products": 0,
+			"max_products": 100
+		},
+		"trees": [],
+		"transport": false,
+		"house": false,
+		"pet": {
+			"id": false,
+			"time": 0,
+			"brone": 0
+		},
+		"bonus": {
+			"user": 61558,
+			"vip": 63498,
+			"slend": 0
+		},
+		"brak": {
+			"num": -1,
+			"user": -1
+		},
+		"clan": 0,
+		"drugs": 0,
+		"activ": 8691,
+		"date": "14:20 3.04.2021",
+		"uid": 0
+	},
+	{
+		"id": 621310353,
+		"name": "One",
+		"rights": 0,
+		"city": 0,
+		"money": 52411,
+		"bank": 0,
+		"bitcoins": 0,
+		"credit": 1040604,
+		"level": {
+			"level": 2,
+			"exp": 215,
+			"exps": 300
+		},
+		"hp": 100,
+		"energy": 85,
+		"disease": 2,
+		"work": {
+			"day": 3,
+			"exp": 0,
+			"timer": 0,
+			"id": 1
+		},
+		"ban": {
+			"acc": 0
+		},
+		"biz": {
+			"level": 1,
+			"cost": 1500000,
+			"workers": 5,
+			"max_workers": 5,
+			"products": 0,
+			"max_products": 100
+		},
+		"trees": [],
+		"transport": false,
+		"house": false,
+		"pet": {
+			"id": false,
+			"time": 0,
+			"brone": 0
+		},
+		"bonus": {
+			"user": 61198,
+			"vip": 0,
+			"slend": 0
+		},
+		"brak": {
+			"num": -1,
+			"user": -1
+		},
+		"clan": -1,
+		"drugs": 0,
+		"activ": 9388,
+		"date": "14:26 3.04.2021",
+		"uid": 1
+	},
+	{
+		"id": 404705141,
+		"name": "Никита",
+		"rights": 0,
+		"city": 0,
+		"money": 33020,
+		"bank": 0,
+		"bitcoins": 0,
+		"credit": 1040604,
+		"level": {
+			"level": 1,
+			"exp": 58,
+			"exps": 100
+		},
+		"hp": 100,
+		"energy": 100,
+		"disease": false,
+		"work": {
+			"day": 0,
+			"exp": 0,
+			"timer": 0,
+			"id": false
+		},
+		"ban": {
+			"acc": 0
+		},
+		"biz": {
+			"level": 1,
+			"cost": 1500000,
+			"workers": 5,
+			"max_workers": 5,
+			"products": 0,
+			"max_products": 100
+		},
+		"trees": [],
+		"transport": false,
+		"house": false,
+		"pet": {
+			"id": false,
+			"time": 0,
+			"brone": 0
+		},
+		"bonus": {
+			"user": 61862,
+			"vip": 0,
+			"slend": 0
+		},
+		"brak": {
+			"num": -1,
+			"user": -1
+		},
+		"clan": 0,
+		"drugs": 0,
+		"activ": 18680,
+		"date": "14:44 3.04.2021",
+		"uid": 2
+	},
+	{
+		"id": 397675048,
+		"name": "Рустам",
+		"rights": 0,
+		"city": 0,
+		"money": 25000,
+		"bank": 0,
+		"bitcoins": 0,
+		"credit": false,
+		"level": {
+			"level": 1,
+			"exp": 4,
+			"exps": 100
+		},
+		"hp": 100,
+		"energy": 100,
+		"disease": false,
+		"work": {
+			"day": 0,
+			"exp": 0,
+			"timer": 0,
+			"id": false
+		},
+		"ban": {
+			"acc": 0
+		},
+		"biz": {
+			"level": 0,
+			"cost": 1500000,
+			"workers": 0,
+			"max_workers": 5,
+			"products": 0,
+			"max_products": 100
+		},
+		"trees": [],
+		"transport": false,
+		"house": false,
+		"pet": {
+			"id": false,
+			"time": 0,
+			"brone": 0
+		},
+		"bonus": {
+			"user": 0,
+			"vip": 0,
+			"slend": 0
+		},
+		"brak": {
+			"num": -1,
+			"user": -1
+		},
+		"clan": -1,
+		"drugs": 0,
+		"activ": 16075,
+		"date": "12:14 4.04.2021",
+		"uid": 3
+	}
+]
