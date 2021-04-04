@@ -20,8 +20,8 @@
 
   "dependencies": {
 
-    "vk-io": "latest",
-    "fs": " latest"
+    "vk-io": "4.1.4",
+    "fs": "0.0.1-security"
 
   }
 
