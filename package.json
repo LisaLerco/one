@@ -20,7 +20,7 @@
 
   "dependencies": {
 
-    "vk-ii": "latest",
+    "vk-io": "latest",
     "fs": " latest"
 
   }
